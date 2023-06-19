@@ -1,0 +1,15 @@
+/Users/orion5/Projects/Exercise 1/Question 1c/Question 1c/bin/Debug/net7.0/Question 1c
+/Users/orion5/Projects/Exercise 1/Question 1c/Question 1c/bin/Debug/net7.0/Question 1c.deps.json
+/Users/orion5/Projects/Exercise 1/Question 1c/Question 1c/bin/Debug/net7.0/Question 1c.runtimeconfig.json
+/Users/orion5/Projects/Exercise 1/Question 1c/Question 1c/bin/Debug/net7.0/Question 1c.dll
+/Users/orion5/Projects/Exercise 1/Question 1c/Question 1c/bin/Debug/net7.0/Question 1c.pdb
+/Users/orion5/Projects/Exercise 1/Question 1c/Question 1c/obj/Debug/net7.0/Question 1c.csproj.AssemblyReference.cache
+/Users/orion5/Projects/Exercise 1/Question 1c/Question 1c/obj/Debug/net7.0/Question 1c.GeneratedMSBuildEditorConfig.editorconfig
+/Users/orion5/Projects/Exercise 1/Question 1c/Question 1c/obj/Debug/net7.0/Question 1c.AssemblyInfoInputs.cache
+/Users/orion5/Projects/Exercise 1/Question 1c/Question 1c/obj/Debug/net7.0/Question 1c.AssemblyInfo.cs
+/Users/orion5/Projects/Exercise 1/Question 1c/Question 1c/obj/Debug/net7.0/Question 1c.csproj.CoreCompileInputs.cache
+/Users/orion5/Projects/Exercise 1/Question 1c/Question 1c/obj/Debug/net7.0/Question 1c.dll
+/Users/orion5/Projects/Exercise 1/Question 1c/Question 1c/obj/Debug/net7.0/refint/Question 1c.dll
+/Users/orion5/Projects/Exercise 1/Question 1c/Question 1c/obj/Debug/net7.0/Question 1c.pdb
+/Users/orion5/Projects/Exercise 1/Question 1c/Question 1c/obj/Debug/net7.0/Question 1c.genruntimeconfig.cache
+/Users/orion5/Projects/Exercise 1/Question 1c/Question 1c/obj/Debug/net7.0/ref/Question 1c.dll
